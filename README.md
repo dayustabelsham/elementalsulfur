@@ -8,7 +8,7 @@ to So. This study will assess the sensitivity of fungi and bacteria to a So amen
 isolates collected on site, we will test their tolerance to both So and pH. In addition, we will measure changes to soil bacterial and fungal communities
 following the addition of So. Finally, we will assess microbial decomposition and above ground plant diversity following So application for functional analysis.
 
-# sample information
+# Sample information
 Land Type: Agricultural (vineyards)
 Geographic Region: Okanagan, Southern British Columbia, Canada
 Soil Types (pooled): Loam and sandy-loam
@@ -33,9 +33,9 @@ Facility: UBC Sequencing and Bioinformatics Consortium
 # Data Files
 Filename	Description
 raw_reads.fastq.gz	Raw paired-end Illumina NextSeq 2000 reads (gzip-compressed FASTQ)
-METADATA.tsv	Sample metadata including sample-id, row, plot, treatment, 
+METADATA.tsv	Sample metadata including sample-id, row, plot, treatment, shannon, simpson, buffer, phosphorous, and pH.
 
-# references 
+# References 
 
 Aleklett, K., Rosa, D., Pickles, B. J., & Hart, M. M. (2022). Community Assembly and Stability in the Root Microbiota During Early Plant Development. Frontiers in Microbiology, 13, 826521. https://doi.org/10.3389/fmicb.2022.826521
 
