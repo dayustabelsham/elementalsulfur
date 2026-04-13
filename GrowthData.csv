@@ -1,0 +1,397 @@
+Isolate,Slope,Max,Treatment,Type,Test
+Agrococcus jenensis,0.349658044,0.645,0mg S | pH8.5,Bacteria,ControlP
+Agrococcus jenensis,0.307653235,0.318,0mg S | pH8.5,Bacteria,ControlP
+Agrococcus jenensis,0.300453775,0.312,0mg S | pH8.5,Bacteria,ControlP
+Agrococcus jenensis,0.303162299,0.465,0mg S | pH8.5,Bacteria,ControlP
+Alternaria sorghi,0.076748817,0.482,0mg S | pH8.5,Fungi,ControlP
+Alternaria sorghi,0.069159957,0.455,0mg S | pH8.5,Fungi,ControlP
+Alternaria sorghi,0.071280119,0.49,0mg S | pH8.5,Fungi,ControlP
+Alternaria sorghi,0.058943314,0.498,0mg S | pH8.5,Fungi,ControlP
+Aspergillus iizukae,0.184221172,0.814,0mg S | pH8.5,Fungi,ControlP
+Aspergillus iizukae,0.130244652,0.472,0mg S | pH8.5,Fungi,ControlP
+Aspergillus iizukae,0.127625581,0.472,0mg S | pH8.5,Fungi,ControlP
+Aspergillus iizukae,0.121531625,0.457,0mg S | pH8.5,Fungi,ControlP
+Bacillus thuringiensis,0.305340576,0.57,0mg S | pH8.5,Bacteria,ControlP
+Bacillus thuringiensis,0.213170388,0.306,0mg S | pH8.5,Bacteria,ControlP
+Bacillus thuringiensis,0.192863092,0.299,0mg S | pH8.5,Bacteria,ControlP
+Bacillus thuringiensis,0.234873047,0.434,0mg S | pH8.5,Bacteria,ControlP
+Cladosporium cladosporioides,0.092660576,0.485,0mg S | pH8.5,Fungi,ControlP
+Cladosporium cladosporioides,0.084074319,0.443,0mg S | pH8.5,Fungi,ControlP
+Cladosporium cladosporioides,0.101273688,0.478,0mg S | pH8.5,Fungi,ControlP
+Cladosporium cladosporioides,0.091787764,0.461,0mg S | pH8.5,Fungi,ControlP
+Curvularia inaequalis,0.12060349,0.415,0mg S | pH8.5,Fungi,ControlP
+Curvularia inaequalis,0.12587676,0.439,0mg S | pH8.5,Fungi,ControlP
+Curvularia inaequalis,0.11383941,0.401,0mg S | pH8.5,Fungi,ControlP
+Curvularia inaequalis,0.12187358,0.404,0mg S | pH8.5,Fungi,ControlP
+Lysinibacillus xylanilyticus,0.238132292,0.398,0mg S | pH8.5,Bacteria,ControlP
+Lysinibacillus xylanilyticus,0.140701994,0.395,0mg S | pH8.5,Bacteria,ControlP
+Lysinibacillus xylanilyticus,0.185773903,0.4,0mg S | pH8.5,Bacteria,ControlP
+Lysinibacillus xylanilyticus,0.161400188,0.383,0mg S | pH8.5,Bacteria,ControlP
+Mortierella alpina,0.107552641,0.44,0mg S | pH8.5,Fungi,ControlP
+Mortierella alpina,0.113839411,0.393,0mg S | pH8.5,Fungi,ControlP
+Mortierella alpina,0.098494231,0.385,0mg S | pH8.5,Fungi,ControlP
+Mortierella alpina,0.097297622,0.339,0mg S | pH8.5,Fungi,ControlP
+Penicillium camemberti,0.1835830855,0.641,0mg S | pH8.5,Fungi,ControlP
+Penicillium camemberti,0.1759117445,0.625,0mg S | pH8.5,Fungi,ControlP
+Penicillium camemberti,0.1776518436,0.652,0mg S | pH8.5,Fungi,ControlP
+Penicillium camemberti,0.1682851706,0.643,0mg S | pH8.5,Fungi,ControlP
+Penicillium chrysogenum,0.1835830855,0.574,0mg S | pH8.5,Fungi,ControlP
+Penicillium chrysogenum,0.1759117445,0.578,0mg S | pH8.5,Fungi,ControlP
+Penicillium chrysogenum,0.1776518436,0.587,0mg S | pH8.5,Fungi,ControlP
+Penicillium chrysogenum,0.1682851706,0.58,0mg S | pH8.5,Fungi,ControlP
+Priestia aryabhattai,0.175746664,0.347,0mg S | pH8.5,Bacteria,ControlP
+Priestia aryabhattai,0.178052146,0.271,0mg S | pH8.5,Bacteria,ControlP
+Priestia aryabhattai,0.14658518,0.271,0mg S | pH8.5,Bacteria,ControlP
+Priestia aryabhattai,0.152493118,0.266,0mg S | pH8.5,Bacteria,ControlP
+Agrococcus jenensis,0.307434755,0.299,pH6.5,Bacteria,pH
+Agrococcus jenensis,0.256201379,0.308,pH6.5,Bacteria,pH
+Agrococcus jenensis,0.221472421,0.304,pH6.5,Bacteria,pH
+Agrococcus jenensis,0.30643186,0.64,pH6.5,Bacteria,pH
+Agrococcus jenensis,0.265237934,0.306,pH7,Bacteria,pH
+Agrococcus jenensis,0.25548479,0.304,pH7,Bacteria,pH
+Agrococcus jenensis,0.254083737,0.321,pH7,Bacteria,pH
+Agrococcus jenensis,0.260345784,0.636,pH7,Bacteria,pH
+Agrococcus jenensis,0.26612987,0.326,pH7.5,Bacteria,pH
+Agrococcus jenensis,0.275982954,0.326,pH7.5,Bacteria,pH
+Agrococcus jenensis,0.259810623,0.331,pH7.5,Bacteria,pH
+Agrococcus jenensis,0.081639742,0.717,pH7.5,Bacteria,pH
+Agrococcus jenensis,0.300872285,0.321,pH8,Bacteria,pH
+Agrococcus jenensis,0.25000375,0.331,pH8,Bacteria,pH
+Agrococcus jenensis,0.26577483,0.331,pH8,Bacteria,pH
+Agrococcus jenensis,0.354243599,0.63,pH8,Bacteria,pH
+Alternaria sorghi,0.119175717,0.422,pH6.5,Fungi,pH
+Alternaria sorghi,0.19507445,0.708,pH6.5,Fungi,pH
+Alternaria sorghi,0.138032357,0.5,pH6.5,Fungi,pH
+Alternaria sorghi,0.195786665,0.752,pH6.5,Fungi,pH
+Alternaria sorghi,0.091874293,0.536,pH7,Fungi,pH
+Alternaria sorghi,0.12949886,0.762,pH7,Fungi,pH
+Alternaria sorghi,0.087607453,0.585,pH7,Fungi,pH
+Alternaria sorghi,0.123834508,0.779,pH7,Fungi,pH
+Alternaria sorghi,0.1914945,0.553,pH7.5,Fungi,pH
+Alternaria sorghi,0.085424481,0.466,pH7.5,Fungi,pH
+Alternaria sorghi,0.095036938,0.534,pH7.5,Fungi,pH
+Alternaria sorghi,0.176186569,0.768,pH7.5,Fungi,pH
+Alternaria sorghi,0.116423003,0.293,pH8,Fungi,pH
+Alternaria sorghi,0.202237211,0.578,pH8,Fungi,pH
+Alternaria sorghi,0.120682324,0.316,pH8,Fungi,pH
+Alternaria sorghi,0.235515469,0.781,pH8,Fungi,pH
+Aspergillus iizukae,0.135709565,0.494,pH6.5,Fungi,pH
+Aspergillus iizukae,0.151407921,0.493,pH6.5,Fungi,pH
+Aspergillus iizukae,0.157057632,0.54,pH6.5,Fungi,pH
+Aspergillus iizukae,0.151782171,0.487,pH6.5,Fungi,pH
+Aspergillus iizukae,0.129748835,0.485,pH7,Fungi,pH
+Aspergillus iizukae,0.144857866,0.529,pH7,Fungi,pH
+Aspergillus iizukae,0.14975659,0.514,pH7,Fungi,pH
+Aspergillus iizukae,0.156350226,0.523,pH7,Fungi,pH
+Aspergillus iizukae,0.138837081,0.44,pH7.5,Fungi,pH
+Aspergillus iizukae,0.143393178,0.446,pH7.5,Fungi,pH
+Aspergillus iizukae,0.198087167,0.741,pH7.5,Fungi,pH
+Aspergillus iizukae,0.187021038,0.733,pH7.5,Fungi,pH
+Aspergillus iizukae,0.115575414,0.419,pH8,Fungi,pH
+Aspergillus iizukae,0.12757931,0.437,pH8,Fungi,pH
+Aspergillus iizukae,0.185262224,0.583,pH8,Fungi,pH
+Aspergillus iizukae,0.132502775,0.444,pH8,Fungi,pH
+Bacillus thuringiensis,0.173454394,0.343,pH6.5,Bacteria,pH
+Bacillus thuringiensis,0.187765533,0.341,pH6.5,Bacteria,pH
+Bacillus thuringiensis,0.235554468,0.556,pH6.5,Bacteria,pH
+Bacillus thuringiensis,0.177721977,0.32,pH6.5,Bacteria,pH
+Bacillus thuringiensis,0.199015915,0.335,pH7,Bacteria,pH
+Bacillus thuringiensis,0.180794049,0.356,pH7,Bacteria,pH
+Bacillus thuringiensis,0.282060851,0.45,pH7,Bacteria,pH
+Bacillus thuringiensis,0.293239693,0.574,pH7,Bacteria,pH
+Bacillus thuringiensis,0.14036245,0.325,pH7.5,Bacteria,pH
+Bacillus thuringiensis,0.148819644,0.31,pH7.5,Bacteria,pH
+Bacillus thuringiensis,0.167833196,0.322,pH7.5,Bacteria,pH
+Bacillus thuringiensis,0.040017549,0.556,pH7.5,Bacteria,pH
+Bacillus thuringiensis,0.131858509,0.292,pH8,Bacteria,pH
+Bacillus thuringiensis,0.164151649,0.316,pH8,Bacteria,pH
+Bacillus thuringiensis,0.148288864,0.297,pH8,Bacteria,pH
+Bacillus thuringiensis,0.143243729,0.299,pH8,Bacteria,pH
+Cladosporium cladosporioides,0.114185715,0.532,pH6.5,Fungi,pH
+Cladosporium cladosporioides,0.198754433,0.825,pH6.5,Fungi,pH
+Cladosporium cladosporioides,0.113679331,0.538,pH6.5,Fungi,pH
+Cladosporium cladosporioides,0.100014995,0.431,pH6.5,Fungi,pH
+Cladosporium cladosporioides,0.154551412,0.778,pH7,Fungi,pH
+Cladosporium cladosporioides,0.136295483,0.853,pH7,Fungi,pH
+Cladosporium cladosporioides,0.107432697,0.546,pH7,Fungi,pH
+Cladosporium cladosporioides,0.096479373,0.514,pH7,Fungi,pH
+Cladosporium cladosporioides,0.108706718,0.506,pH7.5,Fungi,pH
+Cladosporium cladosporioides,0.166716632,0.741,pH7.5,Fungi,pH
+Cladosporium cladosporioides,0.132448651,0.568,pH7.5,Fungi,pH
+Cladosporium cladosporioides,0.093486844,0.46,pH7.5,Fungi,pH
+Cladosporium cladosporioides,0.103049211,0.415,pH8,Fungi,pH
+Cladosporium cladosporioides,0.152812281,0.725,pH8,Fungi,pH
+Cladosporium cladosporioides,0.099271256,0.388,pH8,Fungi,pH
+Cladosporium cladosporioides,0.095185399,0.352,pH8,Fungi,pH
+Curvularia inaequalis,0.16454528,0.605,pH6.5,Fungi,pH
+Curvularia inaequalis,0.14408678,0.397,pH6.5,Fungi,pH
+Curvularia inaequalis,0.18963628,0.688,pH6.5,Fungi,pH
+Curvularia inaequalis,0.14211324,0.376,pH6.5,Fungi,pH
+Curvularia inaequalis,0.22092878,0.725,pH7,Fungi,pH
+Curvularia inaequalis,0.14551436,0.465,pH7,Fungi,pH
+Curvularia inaequalis,0.13725754,0.442,pH7,Fungi,pH
+Curvularia inaequalis,0.12766304,0.441,pH7,Fungi,pH
+Curvularia inaequalis,0.15904632,0.46,pH7.5,Fungi,pH
+Curvularia inaequalis,0.14869805,0.44,pH7.5,Fungi,pH
+Curvularia inaequalis,0.14552907,0.427,pH7.5,Fungi,pH
+Curvularia inaequalis,0.15425302,0.449,pH7.5,Fungi,pH
+Curvularia inaequalis,0.12262362,0.368,pH8,Fungi,pH
+Curvularia inaequalis,0.13017493,0.391,pH8,Fungi,pH
+Curvularia inaequalis,0.12134872,0.382,pH8,Fungi,pH
+Curvularia inaequalis,0.12509396,0.371,pH8,Fungi,pH
+Lysinibacillus xylanilyticus,0.153693837,0.317,pH6.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.160469295,0.336,pH6.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.28204952,0.99,pH6.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.184145066,0.353,pH6.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.249795304,0.965,pH7,Bacteria,pH
+Lysinibacillus xylanilyticus,0.18532154,0.374,pH7,Bacteria,pH
+Lysinibacillus xylanilyticus,0.182974257,0.417,pH7,Bacteria,pH
+Lysinibacillus xylanilyticus,0.1649268,0.388,pH7,Bacteria,pH
+Lysinibacillus xylanilyticus,0.202442171,0.448,pH7.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.206118153,0.447,pH7.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.203651132,0.528,pH7.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.198149842,0.439,pH7.5,Bacteria,pH
+Lysinibacillus xylanilyticus,0.170119095,0.432,pH8,Bacteria,pH
+Lysinibacillus xylanilyticus,0.167976253,0.511,pH8,Bacteria,pH
+Lysinibacillus xylanilyticus,0.165835091,0.548,pH8,Bacteria,pH
+Lysinibacillus xylanilyticus,0.147186891,0.453,pH8,Bacteria,pH
+Mortierella alpina,0.138023688,0.463,pH6.5,Fungi,pH
+Mortierella alpina,0.12515629,0.417,pH6.5,Fungi,pH
+Mortierella alpina,0.129505118,0.345,pH6.5,Fungi,pH
+Mortierella alpina,0.11886539,0.314,pH6.5,Fungi,pH
+Mortierella alpina,0.158887898,0.708,pH7,Fungi,pH
+Mortierella alpina,0.119027121,0.448,pH7,Fungi,pH
+Mortierella alpina,0.12445662,0.427,pH7,Fungi,pH
+Mortierella alpina,0.115616072,0.385,pH7,Fungi,pH
+Mortierella alpina,0.1126522,0.455,pH7.5,Fungi,pH
+Mortierella alpina,0.109564629,0.378,pH7.5,Fungi,pH
+Mortierella alpina,0.112661808,0.4,pH7.5,Fungi,pH
+Mortierella alpina,0.113623161,0.36,pH7.5,Fungi,pH
+Mortierella alpina,0.093431662,0.294,pH8,Fungi,pH
+Mortierella alpina,0.13828727,0.587,pH8,Fungi,pH
+Mortierella alpina,0.091854051,0.288,pH8,Fungi,pH
+Mortierella alpina,0.09687998,0.294,pH8,Fungi,pH
+Penicillium camemberti,0.1451340745,0.588,pH6.5,Fungi,pH
+Penicillium camemberti,0.1402755359,0.61,pH6.5,Fungi,pH
+Penicillium camemberti,0.1461147172,0.569,pH6.5,Fungi,pH
+Penicillium camemberti,0.1352395244,0.58,pH6.5,Fungi,pH
+Penicillium camemberti,0.1394342662,0.767,pH7,Fungi,pH
+Penicillium camemberti,0.1490407085,0.539,pH7,Fungi,pH
+Penicillium camemberti,0.1117286996,0.538,pH7,Fungi,pH
+Penicillium camemberti,0.140150356,0.54,pH7,Fungi,pH
+Penicillium camemberti,0.1476430932,0.582,pH7.5,Fungi,pH
+Penicillium camemberti,0.140303086,0.6,pH7.5,Fungi,pH
+Penicillium camemberti,0.1605796089,0.556,pH7.5,Fungi,pH
+Penicillium camemberti,0.1621860432,0.572,pH7.5,Fungi,pH
+Penicillium camemberti,0.0535601404,0.504,pH8,Fungi,pH
+Penicillium camemberti,0.0579458312,0.519,pH8,Fungi,pH
+Penicillium camemberti,0.0635428719,0.511,pH8,Fungi,pH
+Penicillium camemberti,0.0680015783,0.522,pH8,Fungi,pH
+Penicillium chrysogenum,0.1451340745,0.541,pH6.5,Fungi,pH
+Penicillium chrysogenum,0.1402755359,0.537,pH6.5,Fungi,pH
+Penicillium chrysogenum,0.1461147172,0.566,pH6.5,Fungi,pH
+Penicillium chrysogenum,0.1352395244,0.548,pH6.5,Fungi,pH
+Penicillium chrysogenum,0.1394342662,0.552,pH7,Fungi,pH
+Penicillium chrysogenum,0.1490407085,0.76,pH7,Fungi,pH
+Penicillium chrysogenum,0.1117286996,0.508,pH7,Fungi,pH
+Penicillium chrysogenum,0.140150356,0.516,pH7,Fungi,pH
+Penicillium chrysogenum,0.1476430932,0.501,pH7.5,Fungi,pH
+Penicillium chrysogenum,0.140303086,0.55,pH7.5,Fungi,pH
+Penicillium chrysogenum,0.1605796089,0.532,pH7.5,Fungi,pH
+Penicillium chrysogenum,0.1621860432,0.567,pH7.5,Fungi,pH
+Penicillium chrysogenum,0.0535601404,0.399,pH8,Fungi,pH
+Penicillium chrysogenum,0.0579458312,0.464,pH8,Fungi,pH
+Penicillium chrysogenum,0.0635428719,0.673,pH8,Fungi,pH
+Penicillium chrysogenum,0.0680015783,0.637,pH8,Fungi,pH
+Priestia aryabhattai,0.182494973,0.497,pH6.5,Bacteria,pH
+Priestia aryabhattai,0.170267126,0.3,pH6.5,Bacteria,pH
+Priestia aryabhattai,0.181808506,0.285,pH6.5,Bacteria,pH
+Priestia aryabhattai,0.163632699,0.28,pH6.5,Bacteria,pH
+Priestia aryabhattai,0.206325266,0.268,pH7,Bacteria,pH
+Priestia aryabhattai,0.208875753,0.295,pH7,Bacteria,pH
+Priestia aryabhattai,0.181808506,0.286,pH7,Bacteria,pH
+Priestia aryabhattai,0.1776537,0.29,pH7,Bacteria,pH
+Priestia aryabhattai,0.175508922,0.588,pH7.5,Bacteria,pH
+Priestia aryabhattai,0.100937082,0.284,pH7.5,Bacteria,pH
+Priestia aryabhattai,0.162186043,0.301,pH7.5,Bacteria,pH
+Priestia aryabhattai,0.069133426,0.629,pH7.5,Bacteria,pH
+Priestia aryabhattai,0.242853722,0.557,pH8,Bacteria,pH
+Priestia aryabhattai,0.147714181,0.285,pH8,Bacteria,pH
+Priestia aryabhattai,0.1776537,0.29,pH8,Bacteria,pH
+Priestia aryabhattai,0.182190211,0.287,pH8,Bacteria,pH
+Agrococcus jenensis,,,10mg,Bacteria,S
+Agrococcus jenensis,,,10mg,Bacteria,S
+Agrococcus jenensis,,,10mg,Bacteria,S
+Agrococcus jenensis,,,10mg,Bacteria,S
+Agrococcus jenensis,0.152278416,0.35,2.5mg,Bacteria,S
+Agrococcus jenensis,0.268792948,0.649,2.5mg,Bacteria,S
+Agrococcus jenensis,0.187015015,0.352,2.5mg,Bacteria,S
+Agrococcus jenensis,0.140627736,0.323,2.5mg,Bacteria,S
+Agrococcus jenensis,0.088664389,0.431,5mg,Bacteria,S
+Agrococcus jenensis,0.10671545,0.534,5mg,Bacteria,S
+Agrococcus jenensis,0.059336935,0.532,5mg,Bacteria,S
+Agrococcus jenensis,0.250920246,0.612,5mg,Bacteria,S
+Agrococcus jenensis,0.094172553,0.35,7.5mg,Bacteria,S
+Agrococcus jenensis,0.133995276,0.484,7.5mg,Bacteria,S
+Agrococcus jenensis,0.136370635,0.492,7.5mg,Bacteria,S
+Agrococcus jenensis,0.152756776,0.839,7.5mg,Bacteria,S
+Alternaria sorghi,,,10mg,Fungi,S
+Alternaria sorghi,,,10mg,Fungi,S
+Alternaria sorghi,,,10mg,Fungi,S
+Alternaria sorghi,,,10mg,Fungi,S
+Alternaria sorghi,0.081075756,0.856,2.5mg,Fungi,S
+Alternaria sorghi,0.130310216,0.887,2.5mg,Fungi,S
+Alternaria sorghi,0.03835761,0.482,2.5mg,Fungi,S
+Alternaria sorghi,0.062145297,0.516,2.5mg,Fungi,S
+Alternaria sorghi,,,5mg,Fungi,S
+Alternaria sorghi,,,5mg,Fungi,S
+Alternaria sorghi,,,5mg,Fungi,S
+Alternaria sorghi,,,5mg,Fungi,S
+Alternaria sorghi,,,7.5mg,Fungi,S
+Alternaria sorghi,,,7.5mg,Fungi,S
+Alternaria sorghi,,,7.5mg,Fungi,S
+Alternaria sorghi,,,7.5mg,Fungi,S
+Aspergillus iizukae,,,10mg,Fungi,S
+Aspergillus iizukae,,,10mg,Fungi,S
+Aspergillus iizukae,,,10mg,Fungi,S
+Aspergillus iizukae,,,10mg,Fungi,S
+Aspergillus iizukae,,,2.5mg,Fungi,S
+Aspergillus iizukae,,,2.5mg,Fungi,S
+Aspergillus iizukae,,,2.5mg,Fungi,S
+Aspergillus iizukae,,,2.5mg,Fungi,S
+Aspergillus iizukae,,,5mg,Fungi,S
+Aspergillus iizukae,,,5mg,Fungi,S
+Aspergillus iizukae,,,5mg,Fungi,S
+Aspergillus iizukae,,,5mg,Fungi,S
+Aspergillus iizukae,,,7.5mg,Fungi,S
+Aspergillus iizukae,,,7.5mg,Fungi,S
+Aspergillus iizukae,,,7.5mg,Fungi,S
+Aspergillus iizukae,,,7.5mg,Fungi,S
+Bacillus thuringiensis,,,10mg,Bacteria,S
+Bacillus thuringiensis,,,10mg,Bacteria,S
+Bacillus thuringiensis,,,10mg,Bacteria,S
+Bacillus thuringiensis,,,10mg,Bacteria,S
+Bacillus thuringiensis,0.228650329,0.561,2.5mg,Bacteria,S
+Bacillus thuringiensis,0.24948747,0.308,2.5mg,Bacteria,S
+Bacillus thuringiensis,0.278581187,0.311,2.5mg,Bacteria,S
+Bacillus thuringiensis,0.271889664,0.301,2.5mg,Bacteria,S
+Bacillus thuringiensis,0.266716534,0.459,5mg,Bacteria,S
+Bacillus thuringiensis,0.3038089,0.502,5mg,Bacteria,S
+Bacillus thuringiensis,0.182769362,0.323,5mg,Bacteria,S
+Bacillus thuringiensis,0.172217917,0.329,5mg,Bacteria,S
+Bacillus thuringiensis,,,7.5mg,Bacteria,S
+Bacillus thuringiensis,,,7.5mg,Bacteria,S
+Bacillus thuringiensis,,,7.5mg,Bacteria,S
+Bacillus thuringiensis,,,7.5mg,Bacteria,S
+Cladosporium cladosporioides,,,10mg,Fungi,S
+Cladosporium cladosporioides,,,10mg,Fungi,S
+Cladosporium cladosporioides,,,10mg,Fungi,S
+Cladosporium cladosporioides,,,10mg,Fungi,S
+Cladosporium cladosporioides,,,2.5mg,Fungi,S
+Cladosporium cladosporioides,,,2.5mg,Fungi,S
+Cladosporium cladosporioides,,,2.5mg,Fungi,S
+Cladosporium cladosporioides,,,2.5mg,Fungi,S
+Cladosporium cladosporioides,,,5mg,Fungi,S
+Cladosporium cladosporioides,,,5mg,Fungi,S
+Cladosporium cladosporioides,,,5mg,Fungi,S
+Cladosporium cladosporioides,,,5mg,Fungi,S
+Cladosporium cladosporioides,,,7.5mg,Fungi,S
+Cladosporium cladosporioides,,,7.5mg,Fungi,S
+Cladosporium cladosporioides,,,7.5mg,Fungi,S
+Cladosporium cladosporioides,,,7.5mg,Fungi,S
+Curvularia inaequalis,,,10mg,Fungi,S
+Curvularia inaequalis,,,10mg,Fungi,S
+Curvularia inaequalis,,,10mg,Fungi,S
+Curvularia inaequalis,,,10mg,Fungi,S
+Curvularia inaequalis,0.07735825,0.582,2.5mg,Fungi,S
+Curvularia inaequalis,0.09404587,0.472,2.5mg,Fungi,S
+Curvularia inaequalis,0.11823307,0.553,2.5mg,Fungi,S
+Curvularia inaequalis,0.15048886,0.511,2.5mg,Fungi,S
+Curvularia inaequalis,0.03097034,0.586,5mg,Fungi,S
+Curvularia inaequalis,0.01404924,0.688,5mg,Fungi,S
+Curvularia inaequalis,0.11113066,0.926,5mg,Fungi,S
+Curvularia inaequalis,0.04075222,0.59,5mg,Fungi,S
+Curvularia inaequalis,0.0410492,0.969,7.5mg,Fungi,S
+Curvularia inaequalis,0.06217621,0.552,7.5mg,Fungi,S
+Curvularia inaequalis,0.04037754,0.637,7.5mg,Fungi,S
+Curvularia inaequalis,0.11148502,1.048,7.5mg,Fungi,S
+Lysinibacillus xylanilyticus,0.246428736,0.489,10mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.308292986,0.654,10mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.281113699,1.197,10mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.270454277,0.564,10mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.256186769,0.465,2.5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.243962614,0.416,2.5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.203233724,0.418,2.5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.227585878,0.445,2.5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.092310915,0.575,5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.258431074,0.503,5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.275296148,0.512,5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.31337566,0.727,5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.171133222,0.485,7.5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.208630507,0.491,7.5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.279855168,1.045,7.5mg,Bacteria,S
+Lysinibacillus xylanilyticus,0.260704415,0.877,7.5mg,Bacteria,S
+Mortierella alpina,0.06138337,0.666,10mg,Fungi,S
+Mortierella alpina,0.047758878,0.735,10mg,Fungi,S
+Mortierella alpina,0.037156923,0.682,10mg,Fungi,S
+Mortierella alpina,0.062431622,0.613,10mg,Fungi,S
+Mortierella alpina,0.08253764,0.618,2.5mg,Fungi,S
+Mortierella alpina,0.078327716,0.508,2.5mg,Fungi,S
+Mortierella alpina,0.144824645,1.007,2.5mg,Fungi,S
+Mortierella alpina,0.065890294,0.536,2.5mg,Fungi,S
+Mortierella alpina,0.093377807,1.014,5mg,Fungi,S
+Mortierella alpina,0.0578733,0.667,5mg,Fungi,S
+Mortierella alpina,0.061916847,0.798,5mg,Fungi,S
+Mortierella alpina,0.091152478,1.081,5mg,Fungi,S
+Mortierella alpina,0.059276888,0.719,7.5mg,Fungi,S
+Mortierella alpina,0.033605812,0.82,7.5mg,Fungi,S
+Mortierella alpina,0.078529759,0.998,7.5mg,Fungi,S
+Mortierella alpina,0.047225399,0.737,7.5mg,Fungi,S
+Penicillium camemberti,,,10mg,Fungi,S
+Penicillium camemberti,,,10mg,Fungi,S
+Penicillium camemberti,,,10mg,Fungi,S
+Penicillium camemberti,,,10mg,Fungi,S
+Penicillium camemberti,,,2.5mg,Fungi,S
+Penicillium camemberti,,,2.5mg,Fungi,S
+Penicillium camemberti,,,2.5mg,Fungi,S
+Penicillium camemberti,,,2.5mg,Fungi,S
+Penicillium camemberti,,,5mg,Fungi,S
+Penicillium camemberti,,,5mg,Fungi,S
+Penicillium camemberti,,,5mg,Fungi,S
+Penicillium camemberti,,,5mg,Fungi,S
+Penicillium camemberti,,,7.5mg,Fungi,S
+Penicillium camemberti,,,7.5mg,Fungi,S
+Penicillium camemberti,,,7.5mg,Fungi,S
+Penicillium camemberti,,,7.5mg,Fungi,S
+Penicillium chrysogenum,,,10mg,Fungi,S
+Penicillium chrysogenum,,,10mg,Fungi,S
+Penicillium chrysogenum,,,10mg,Fungi,S
+Penicillium chrysogenum,,,10mg,Fungi,S
+Penicillium chrysogenum,,,2.5mg,Fungi,S
+Penicillium chrysogenum,,,2.5mg,Fungi,S
+Penicillium chrysogenum,,,2.5mg,Fungi,S
+Penicillium chrysogenum,,,2.5mg,Fungi,S
+Penicillium chrysogenum,,,5mg,Fungi,S
+Penicillium chrysogenum,,,5mg,Fungi,S
+Penicillium chrysogenum,,,5mg,Fungi,S
+Penicillium chrysogenum,,,5mg,Fungi,S
+Penicillium chrysogenum,,,7.5mg,Fungi,S
+Penicillium chrysogenum,,,7.5mg,Fungi,S
+Penicillium chrysogenum,,,7.5mg,Fungi,S
+Penicillium chrysogenum,,,7.5mg,Fungi,S
+Priestia aryabhattai,0.158205911,0.301,10mg,Bacteria,S
+Priestia aryabhattai,0.223846315,0.443,10mg,Bacteria,S
+Priestia aryabhattai,0.182660486,0.703,10mg,Bacteria,S
+Priestia aryabhattai,0.102092746,0.484,10mg,Bacteria,S
+Priestia aryabhattai,0.147258938,0.443,2.5mg,Bacteria,S
+Priestia aryabhattai,0.133331032,0.259,2.5mg,Bacteria,S
+Priestia aryabhattai,0.194374985,0.291,2.5mg,Bacteria,S
+Priestia aryabhattai,0.196869803,0.301,2.5mg,Bacteria,S
+Priestia aryabhattai,0.197350792,0.481,5mg,Bacteria,S
+Priestia aryabhattai,0.197492476,0.473,5mg,Bacteria,S
+Priestia aryabhattai,0.136699717,0.266,5mg,Bacteria,S
+Priestia aryabhattai,0.138510495,0.287,5mg,Bacteria,S
+Priestia aryabhattai,0.087965012,0.309,7.5mg,Bacteria,S
+Priestia aryabhattai,0.093109778,0.444,7.5mg,Bacteria,S
+Priestia aryabhattai,0.176779987,0.593,7.5mg,Bacteria,S
+Priestia aryabhattai,0.179625597,0.509,7.5mg,Bacteria,S
