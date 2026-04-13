@@ -32,7 +32,8 @@ Facility: UBC Sequencing and Bioinformatics Consortium
 
 # Data Files
 Filename	Description
-raw_reads.fastq.gz	Raw paired-end Illumina NextSeq 2000 reads (gzip-compressed FASTQ)
+imported reads .qza format	
+Imported paired-end Illumina NextSeq 2000 reads (gzip-compressed)
 METADATA.tsv	Sample metadata including sample-id, row, plot, treatment, shannon, simpson, buffer, phosphorous, and pH.
 
 # References 
