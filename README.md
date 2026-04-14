@@ -32,10 +32,30 @@ Facility: UBC Sequencing and Bioinformatics Consortium
 
 # Data Files
 Imported paired-end Illumina NextSeq 2000 reads (gzip-compressed fastq format) can be found in the NCBI Sequence Read Archive at the following links:
-ITS2:
+ITS2: 
+https://www.ncbi.nlm.nih.gov/biosample/57263091
+https://www.ncbi.nlm.nih.gov/biosample/57263092
+https://www.ncbi.nlm.nih.gov/biosample/57263093
+https://www.ncbi.nlm.nih.gov/biosample/57263094
+https://www.ncbi.nlm.nih.gov/biosample/57263095
+https://www.ncbi.nlm.nih.gov/biosample/57263096
+https://www.ncbi.nlm.nih.gov/biosample/57263097
+https://www.ncbi.nlm.nih.gov/biosample/57263098
+https://www.ncbi.nlm.nih.gov/biosample/57263099
+https://www.ncbi.nlm.nih.gov/biosample/57263100
+https://www.ncbi.nlm.nih.gov/biosample/57263101
+https://www.ncbi.nlm.nih.gov/biosample/57263102
+
 16S:
 
+
 METADATA.tsv:	Sample metadata including sample-id, row, plot, treatment, shannon, simpson, buffer, phosphorous, and pH.
+Chemical.csv: Data containing available phosphorous (Bray 1) and CaCO3 equivalent (%)
+GrowthData.csv: Data containing growth assay slope and max OD for each isolate
+PlantDiv.csv: Data containing species counts per quadrat
+WeightData.csv: Data containing weight measurements over time of green teabags collected from feild soil
+pH.csv: Data containing pH measurements taken from feild soil over time, measuresd using a pH probe
+
 
 # References 
 
