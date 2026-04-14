@@ -12,7 +12,7 @@ following the addition of So. Finally, we will assess microbial decomposition an
 Land Type: Agricultural (vineyards)
 Geographic Region: Okanagan, Southern British Columbia, Canada
 Soil Types (pooled): Loam and sandy-loam
-Sampling Locations: 49.2414504 N 119.5672703 W
+Sampling Location: 49.2414504 N 119.5672703 W
 Sample Type: Soil
 Collection Date: October 15, 2024
 
@@ -31,10 +31,11 @@ Platform: Illumina NextSeq 2000 (2×300 bp)
 Facility: UBC Sequencing and Bioinformatics Consortium
 
 # Data Files
-Filename	Description
-imported reads .qza format	
-Imported paired-end Illumina NextSeq 2000 reads (gzip-compressed)
-METADATA.tsv	Sample metadata including sample-id, row, plot, treatment, shannon, simpson, buffer, phosphorous, and pH.
+Imported paired-end Illumina NextSeq 2000 reads (gzip-compressed fastq format) can be found in the NCBI Sequence Read Archive at the following links:
+ITS2:
+16S:
+
+METADATA.tsv:	Sample metadata including sample-id, row, plot, treatment, shannon, simpson, buffer, phosphorous, and pH.
 
 # References 
 
