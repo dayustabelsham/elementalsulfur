@@ -18,8 +18,8 @@ Collection Date: October 15, 2024
 
 # DNA Extraction and PCR
 DNA Extraction: QIAGEN DNeasy PowerSoil Kit (0.25 g samples)
-Primer Region
-Targeted Region: SSU rRNA and ITS2
+Targeted Region: SSU rRNA V3V4 and ITS2
+
 PCR:
 16S: AML1 (forward) & AML2 (reverse) - Lee et al., 2008
 ITS: WANDA (forward) & AML2 (reverse) - Dumbrell et al., 2011
