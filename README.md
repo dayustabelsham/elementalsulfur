@@ -32,21 +32,8 @@ Facility: UBC Sequencing and Bioinformatics Consortium
 
 # Data Files
 Imported paired-end Illumina NextSeq 2000 reads (gzip-compressed fastq format) can be found in the NCBI Sequence Read Archive at the following links:
-ITS2: 
-https://www.ncbi.nlm.nih.gov/biosample/57263091
-https://www.ncbi.nlm.nih.gov/biosample/57263092
-https://www.ncbi.nlm.nih.gov/biosample/57263093
-https://www.ncbi.nlm.nih.gov/biosample/57263094
-https://www.ncbi.nlm.nih.gov/biosample/57263095
-https://www.ncbi.nlm.nih.gov/biosample/57263096
-https://www.ncbi.nlm.nih.gov/biosample/57263097
-https://www.ncbi.nlm.nih.gov/biosample/57263098
-https://www.ncbi.nlm.nih.gov/biosample/57263099
-https://www.ncbi.nlm.nih.gov/biosample/57263100
-https://www.ncbi.nlm.nih.gov/biosample/57263101
-https://www.ncbi.nlm.nih.gov/biosample/57263102
-
-16S:
+ITS2: http://www.ncbi.nlm.nih.gov/bioproject/1453436
+16S: http://www.ncbi.nlm.nih.gov/bioproject/1453704
 
 
 METADATA.tsv:	Sample metadata including sample-id, row, plot, treatment, shannon, simpson, buffer, phosphorous, and pH.
