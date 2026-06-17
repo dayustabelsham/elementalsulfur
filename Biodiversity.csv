@@ -1,0 +1,649 @@
+Plot ,Row,Species ,Count,Sample
+Low,2.5,Alfalfa,0,1
+Low,6.5,Alfalfa,0,1
+Low,10.5,Alfalfa,0,1
+Low,14.5,Alfalfa,0,1
+Low,18.5,Alfalfa,0,1
+Low,22.5,Alfalfa,0,1
+Up,9.5,Alfalfa,0,1
+Up,25.5,Alfalfa,0,1
+Up,30.5,Alfalfa,0,1
+Up,33.5,Alfalfa,0,1
+Up,37.5,Alfalfa,0,1
+Up,45.5,Alfalfa,0,1
+Low,2.5,Alfalfa,0,2
+Low,6.5,Alfalfa,0,2
+Low,10.5,Alfalfa,0,2
+Low,14.5,Alfalfa,0,2
+Low,18.5,Alfalfa,0,2
+Low,22.5,Alfalfa,0,2
+Up,9.5,Alfalfa,0,2
+Up,25.5,Alfalfa,0,2
+Up,30.5,Alfalfa,0,2
+Up,33.5,Alfalfa,0,2
+Up,45.5,Alfalfa,0,2
+Low,6.5,Alfalfa,0,3
+Low,10.5,Alfalfa,0,3
+Low,14.5,Alfalfa,0,3
+Low,18.5,Alfalfa,0,3
+Low,22.5,Alfalfa,0,3
+Up,9.5,Alfalfa,0,3
+Up,25.5,Alfalfa,0,3
+Up,30.5,Alfalfa,0,3
+Up,37.5,Alfalfa,0,3
+Up,45.5,Alfalfa,0,3
+Up,33.5,Alfalfa,3,3
+Up,37.5,Alfalfa,8,2
+Low,2.5,Alfalfa,10,3
+Up,9.5,Black Medic ,0,1
+Up,25.5,Black Medic ,0,1
+Up,33.5,Black Medic ,0,1
+Up,37.5,Black Medic ,0,1
+Up,45.5,Black Medic ,0,1
+Up,30.5,Black Medic ,0,2
+Up,33.5,Black Medic ,0,2
+Up,37.5,Black Medic ,0,2
+Up,45.5,Black Medic ,0,2
+Up,30.5,Black Medic ,0,3
+Up,33.5,Black Medic ,0,3
+Up,37.5,Black Medic ,0,3
+Up,45.5,Black Medic ,0,3
+Up,30.5,Black Medic ,1,1
+Up,9.5,Black Medic ,1,2
+Low,22.5,Black Medic ,3,1
+Up,25.5,Black Medic ,3,2
+Low,18.5,Black Medic ,3,3
+Low,22.5,Black Medic ,3,3
+Low,18.5,Black Medic ,4,1
+Low,22.5,Black Medic ,4,2
+Up,9.5,Black Medic ,4,3
+Low,6.5,Black Medic ,5,3
+Low,6.5,Black Medic ,6,2
+Up,25.5,Black Medic ,6,3
+Low,14.5,Black Medic ,8,1
+Low,14.5,Black Medic ,8,3
+Low,18.5,Black Medic ,10,2
+Low,10.5,Black Medic ,10,3
+Low,6.5,Black Medic ,12,1
+Low,10.5,Black Medic ,12,2
+Low,14.5,Black Medic ,12,2
+Low,10.5,Black Medic ,18,1
+Low,2.5,Black Medic ,23,3
+Low,2.5,Black Medic ,26,2
+Low,2.5,Black Medic ,27,1
+Low,2.5,Bluegrass,0,1
+Low,18.5,Bluegrass,0,1
+Low,22.5,Bluegrass,0,1
+Low,18.5,Bluegrass,0,2
+Low,22.5,Bluegrass,0,2
+Up,30.5,Bluegrass,0,2
+Low,10.5,Bluegrass,0,3
+Low,14.5,Bluegrass,0,3
+Low,18.5,Bluegrass,0,3
+Low,22.5,Bluegrass,0,3
+Low,6.5,Bluegrass,36,1
+Low,10.5,Bluegrass,36,1
+Low,14.5,Bluegrass,36,1
+Up,9.5,Bluegrass,36,1
+Up,25.5,Bluegrass,36,1
+Up,30.5,Bluegrass,36,1
+Up,33.5,Bluegrass,36,1
+Up,37.5,Bluegrass,36,1
+Up,45.5,Bluegrass,36,1
+Low,2.5,Bluegrass,36,2
+Low,6.5,Bluegrass,36,2
+Low,10.5,Bluegrass,36,2
+Low,14.5,Bluegrass,36,2
+Up,9.5,Bluegrass,36,2
+Up,25.5,Bluegrass,36,2
+Up,33.5,Bluegrass,36,2
+Up,37.5,Bluegrass,36,2
+Up,45.5,Bluegrass,36,2
+Low,2.5,Bluegrass,36,3
+Low,6.5,Bluegrass,36,3
+Up,9.5,Bluegrass,36,3
+Up,25.5,Bluegrass,36,3
+Up,30.5,Bluegrass,36,3
+Up,33.5,Bluegrass,36,3
+Up,37.5,Bluegrass,36,3
+Up,45.5,Bluegrass,36,3
+Low,2.5,Catmint,0,1
+Low,6.5,Catmint,0,1
+Low,10.5,Catmint,0,1
+Low,14.5,Catmint,0,1
+Low,18.5,Catmint,0,1
+Low,22.5,Catmint,0,1
+Up,9.5,Catmint,0,1
+Up,25.5,Catmint,0,1
+Up,30.5,Catmint,0,1
+Up,33.5,Catmint,0,1
+Up,37.5,Catmint,0,1
+Up,45.5,Catmint,0,1
+Low,2.5,Catmint,0,2
+Low,10.5,Catmint,0,2
+Low,14.5,Catmint,0,2
+Low,18.5,Catmint,0,2
+Low,22.5,Catmint,0,2
+Up,9.5,Catmint,0,2
+Up,25.5,Catmint,0,2
+Up,30.5,Catmint,0,2
+Up,33.5,Catmint,0,2
+Up,37.5,Catmint,0,2
+Up,45.5,Catmint,0,2
+Low,2.5,Catmint,0,3
+Low,6.5,Catmint,0,3
+Low,10.5,Catmint,0,3
+Low,14.5,Catmint,0,3
+Low,18.5,Catmint,0,3
+Low,22.5,Catmint,0,3
+Up,9.5,Catmint,0,3
+Up,25.5,Catmint,0,3
+Up,30.5,Catmint,0,3
+Up,33.5,Catmint,0,3
+Up,37.5,Catmint,0,3
+Up,45.5,Catmint,0,3
+Low,6.5,Catmint,2,2
+Up,45.5,Clover,0,1
+Low,2.5,Clover,0,3
+Low,14.5,Clover,1,1
+Low,6.5,Clover,1,3
+Up,45.5,Clover,1,3
+Up,25.5,Clover,3,1
+Up,9.5,Clover,4,2
+Up,9.5,Clover,4,3
+Up,37.5,Clover,5,2
+Up,25.5,Clover,7,2
+Up,45.5,Clover,7,2
+Up,30.5,Clover,7,3
+Low,2.5,Clover,9,2
+Low,6.5,Clover,9,2
+Low,10.5,Clover,9,3
+Up,25.5,Clover,10,3
+Up,37.5,Clover,12,1
+Up,9.5,Clover,13,1
+Up,33.5,Clover,13,1
+Up,33.5,Clover,13,2
+Up,30.5,Clover,16,1
+Up,33.5,Clover,16,3
+Low,6.5,Clover,17,1
+Low,10.5,Clover,17,2
+Low,18.5,Clover,18,1
+Low,18.5,Clover,18,2
+Up,37.5,Clover,21,3
+Up,30.5,Clover,22,2
+Low,18.5,Clover,26,3
+Low,2.5,Clover,27,1
+Low,10.5,Clover,32,1
+Low,22.5,Clover,32,1
+Low,14.5,Clover,32,2
+Low,22.5,Clover,32,2
+Low,22.5,Clover,32,3
+Low,14.5,Clover,36,3
+Low,14.5,Downy Broam ,0,1
+Low,22.5,Downy Broam ,0,1
+Up,9.5,Downy Broam ,0,1
+Up,45.5,Downy Broam ,0,1
+Low,18.5,Downy Broam ,0,2
+Low,22.5,Downy Broam ,0,2
+Up,9.5,Downy Broam ,0,2
+Up,25.5,Downy Broam ,0,2
+Up,33.5,Downy Broam ,0,2
+Low,10.5,Downy Broam ,0,3
+Low,18.5,Downy Broam ,0,3
+Up,25.5,Downy Broam ,0,3
+Up,33.5,Downy Broam ,0,3
+Up,37.5,Downy Broam ,0,3
+Up,45.5,Downy Broam ,0,3
+Up,30.5,Downy Broam ,1,1
+Up,33.5,Downy Broam ,1,1
+Up,37.5,Downy Broam ,2,2
+Low,6.5,Downy Broam ,3,1
+Up,37.5,Downy Broam ,3,1
+Up,9.5,Downy Broam ,3,3
+Low,14.5,Downy Broam ,4,2
+Up,30.5,Downy Broam ,4,2
+Low,10.5,Downy Broam ,5,2
+Up,45.5,Downy Broam ,5,2
+Low,10.5,Downy Broam ,6,1
+Low,18.5,Downy Broam ,6,1
+Low,6.5,Downy Broam ,6,2
+Low,2.5,Downy Broam ,7,3
+Low,22.5,Downy Broam ,8,3
+Low,14.5,Downy Broam ,9,3
+Low,6.5,Downy Broam ,10,3
+Up,30.5,Downy Broam ,11,3
+Up,25.5,Downy Broam ,12,1
+Low,2.5,Downy Broam ,16,2
+Low,2.5,Downy Broam ,19,1
+Low,2.5,Field Bindweed,0,1
+Low,6.5,Field Bindweed,0,1
+Low,10.5,Field Bindweed,0,1
+Low,14.5,Field Bindweed,0,1
+Low,18.5,Field Bindweed,0,1
+Low,22.5,Field Bindweed,0,1
+Up,9.5,Field Bindweed,0,1
+Up,25.5,Field Bindweed,0,1
+Up,33.5,Field Bindweed,0,1
+Up,37.5,Field Bindweed,0,1
+Low,2.5,Field Bindweed,0,2
+Low,6.5,Field Bindweed,0,2
+Low,10.5,Field Bindweed,0,2
+Low,14.5,Field Bindweed,0,2
+Low,18.5,Field Bindweed,0,2
+Low,22.5,Field Bindweed,0,2
+Up,9.5,Field Bindweed,0,2
+Up,25.5,Field Bindweed,0,2
+Up,30.5,Field Bindweed,0,2
+Up,33.5,Field Bindweed,0,2
+Up,37.5,Field Bindweed,0,2
+Up,45.5,Field Bindweed,0,2
+Low,2.5,Field Bindweed,0,3
+Low,6.5,Field Bindweed,0,3
+Low,10.5,Field Bindweed,0,3
+Low,14.5,Field Bindweed,0,3
+Low,18.5,Field Bindweed,0,3
+Low,22.5,Field Bindweed,0,3
+Up,9.5,Field Bindweed,0,3
+Up,25.5,Field Bindweed,0,3
+Up,30.5,Field Bindweed,0,3
+Up,33.5,Field Bindweed,0,3
+Up,37.5,Field Bindweed,0,3
+Up,30.5,Field Bindweed,2,1
+Up,45.5,Field Bindweed,2,3
+Up,45.5,Field Bindweed,6,1
+Low,22.5,Hairy Vetch ,0,1
+Up,30.5,Hairy Vetch ,0,1
+Up,37.5,Hairy Vetch ,0,1
+Low,2.5,Hairy Vetch ,0,2
+Low,6.5,Hairy Vetch ,0,2
+Low,10.5,Hairy Vetch ,0,2
+Low,22.5,Hairy Vetch ,0,2
+Up,37.5,Hairy Vetch ,0,2
+Up,45.5,Hairy Vetch ,0,2
+Low,2.5,Hairy Vetch ,0,3
+Low,22.5,Hairy Vetch ,0,3
+Up,25.5,Hairy Vetch ,0,3
+Up,30.5,Hairy Vetch ,0,3
+Up,33.5,Hairy Vetch ,0,3
+Up,45.5,Hairy Vetch ,1,1
+Up,25.5,Hairy Vetch ,1,2
+Low,10.5,Hairy Vetch ,1,3
+Low,14.5,Hairy Vetch ,1,3
+Low,18.5,Hairy Vetch ,1,3
+Up,37.5,Hairy Vetch ,1,3
+Up,45.5,Hairy Vetch ,1,3
+Up,33.5,Hairy Vetch ,2,1
+Up,9.5,Hairy Vetch ,2,3
+Low,10.5,Hairy Vetch ,4,1
+Low,18.5,Hairy Vetch ,4,2
+Up,30.5,Hairy Vetch ,4,2
+Up,33.5,Hairy Vetch ,4,2
+Low,18.5,Hairy Vetch ,5,1
+Up,9.5,Hairy Vetch ,5,2
+Low,6.5,Hairy Vetch ,5,3
+Low,2.5,Hairy Vetch ,6,1
+Low,6.5,Hairy Vetch ,6,1
+Low,14.5,Hairy Vetch ,7,1
+Low,14.5,Hairy Vetch ,7,2
+Up,9.5,Hairy Vetch ,8,1
+Up,25.5,Hairy Vetch ,8,1
+Low,2.5,Horseweed,0,1
+Low,6.5,Horseweed,0,1
+Low,10.5,Horseweed,0,1
+Low,14.5,Horseweed,0,1
+Low,18.5,Horseweed,0,1
+Low,22.5,Horseweed,0,1
+Up,9.5,Horseweed,0,1
+Up,25.5,Horseweed,0,1
+Up,30.5,Horseweed,0,1
+Up,33.5,Horseweed,0,1
+Up,37.5,Horseweed,0,1
+Up,45.5,Horseweed,0,1
+Low,2.5,Horseweed,0,2
+Low,6.5,Horseweed,0,2
+Low,10.5,Horseweed,0,2
+Low,14.5,Horseweed,0,2
+Low,18.5,Horseweed,0,2
+Low,22.5,Horseweed,0,2
+Up,9.5,Horseweed,0,2
+Up,25.5,Horseweed,0,2
+Up,30.5,Horseweed,0,2
+Up,33.5,Horseweed,0,2
+Up,37.5,Horseweed,0,2
+Up,45.5,Horseweed,0,2
+Low,2.5,Horseweed,0,3
+Low,6.5,Horseweed,0,3
+Low,10.5,Horseweed,0,3
+Low,14.5,Horseweed,0,3
+Low,18.5,Horseweed,0,3
+Low,22.5,Horseweed,0,3
+Up,9.5,Horseweed,0,3
+Up,25.5,Horseweed,0,3
+Up,30.5,Horseweed,0,3
+Up,33.5,Horseweed,0,3
+Up,37.5,Horseweed,0,3
+Up,45.5,Horseweed,3,3
+Low,2.5,Mustard ,0,1
+Low,6.5,Mustard ,0,1
+Low,10.5,Mustard ,0,1
+Low,14.5,Mustard ,0,1
+Low,18.5,Mustard ,0,1
+Low,22.5,Mustard ,0,1
+Up,30.5,Mustard ,0,1
+Up,37.5,Mustard ,0,1
+Low,2.5,Mustard ,0,2
+Low,6.5,Mustard ,0,2
+Low,10.5,Mustard ,0,2
+Low,14.5,Mustard ,0,2
+Low,18.5,Mustard ,0,2
+Low,22.5,Mustard ,0,2
+Up,9.5,Mustard ,0,2
+Up,25.5,Mustard ,0,2
+Up,33.5,Mustard ,0,2
+Up,37.5,Mustard ,0,2
+Low,2.5,Mustard ,0,3
+Low,6.5,Mustard ,0,3
+Low,10.5,Mustard ,0,3
+Low,14.5,Mustard ,0,3
+Low,18.5,Mustard ,0,3
+Low,22.5,Mustard ,0,3
+Up,9.5,Mustard ,0,3
+Up,25.5,Mustard ,0,3
+Up,33.5,Mustard ,0,3
+Up,37.5,Mustard ,0,3
+Up,25.5,Mustard ,1,1
+Up,33.5,Mustard ,1,1
+Up,45.5,Mustard ,1,1
+Up,30.5,Mustard ,1,2
+Up,9.5,Mustard ,2,1
+Up,45.5,Mustard ,2,2
+Up,30.5,Mustard ,2,3
+Up,45.5,Mustard ,2,3
+Low,2.5,Orchard Grass,0,1
+Low,6.5,Orchard Grass,0,1
+Low,10.5,Orchard Grass,0,1
+Low,14.5,Orchard Grass,0,1
+Low,18.5,Orchard Grass,0,1
+Low,22.5,Orchard Grass,0,1
+Up,9.5,Orchard Grass,0,1
+Up,25.5,Orchard Grass,0,1
+Up,33.5,Orchard Grass,0,1
+Up,37.5,Orchard Grass,0,1
+Up,45.5,Orchard Grass,0,1
+Low,2.5,Orchard Grass,0,2
+Low,6.5,Orchard Grass,0,2
+Low,10.5,Orchard Grass,0,2
+Low,14.5,Orchard Grass,0,2
+Low,18.5,Orchard Grass,0,2
+Low,22.5,Orchard Grass,0,2
+Up,9.5,Orchard Grass,0,2
+Up,30.5,Orchard Grass,0,2
+Up,33.5,Orchard Grass,0,2
+Up,37.5,Orchard Grass,0,2
+Up,45.5,Orchard Grass,0,2
+Low,2.5,Orchard Grass,0,3
+Low,6.5,Orchard Grass,0,3
+Low,10.5,Orchard Grass,0,3
+Low,14.5,Orchard Grass,0,3
+Low,18.5,Orchard Grass,0,3
+Low,22.5,Orchard Grass,0,3
+Up,9.5,Orchard Grass,0,3
+Up,25.5,Orchard Grass,0,3
+Up,30.5,Orchard Grass,0,3
+Up,37.5,Orchard Grass,0,3
+Up,45.5,Orchard Grass,0,3
+Up,30.5,Orchard Grass,2,1
+Up,25.5,Orchard Grass,2,2
+Up,33.5,Orchard Grass,2,3
+Low,10.5,Prickly lettuce,0,1
+Low,14.5,Prickly lettuce,0,1
+Low,18.5,Prickly lettuce,0,1
+Low,22.5,Prickly lettuce,0,1
+Up,9.5,Prickly lettuce,0,1
+Up,25.5,Prickly lettuce,0,1
+Up,30.5,Prickly lettuce,0,1
+Up,33.5,Prickly lettuce,0,1
+Up,37.5,Prickly lettuce,0,1
+Up,45.5,Prickly lettuce,0,1
+Low,10.5,Prickly lettuce,0,2
+Low,14.5,Prickly lettuce,0,2
+Low,18.5,Prickly lettuce,0,2
+Low,22.5,Prickly lettuce,0,2
+Up,9.5,Prickly lettuce,0,2
+Up,25.5,Prickly lettuce,0,2
+Up,30.5,Prickly lettuce,0,2
+Up,33.5,Prickly lettuce,0,2
+Up,37.5,Prickly lettuce,0,2
+Up,45.5,Prickly lettuce,0,2
+Low,10.5,Prickly lettuce,0,3
+Low,14.5,Prickly lettuce,0,3
+Low,18.5,Prickly lettuce,0,3
+Low,22.5,Prickly lettuce,0,3
+Up,9.5,Prickly lettuce,0,3
+Up,25.5,Prickly lettuce,0,3
+Up,30.5,Prickly lettuce,0,3
+Up,33.5,Prickly lettuce,0,3
+Up,37.5,Prickly lettuce,0,3
+Up,45.5,Prickly lettuce,0,3
+Low,6.5,Prickly lettuce,2,3
+Low,6.5,Prickly lettuce,4,2
+Low,6.5,Prickly lettuce,10,1
+Low,2.5,Prickly lettuce,11,1
+Low,2.5,Prickly lettuce,11,2
+Low,2.5,Prickly lettuce,17,3
+Low,2.5,Purslane,0,1
+Low,6.5,Purslane,0,1
+Low,10.5,Purslane,0,1
+Low,14.5,Purslane,0,1
+Low,18.5,Purslane,0,1
+Low,22.5,Purslane,0,1
+Up,9.5,Purslane,0,1
+Up,30.5,Purslane,0,1
+Up,33.5,Purslane,0,1
+Up,37.5,Purslane,0,1
+Low,2.5,Purslane,0,2
+Low,6.5,Purslane,0,2
+Low,10.5,Purslane,0,2
+Low,14.5,Purslane,0,2
+Low,18.5,Purslane,0,2
+Low,22.5,Purslane,0,2
+Up,9.5,Purslane,0,2
+Up,25.5,Purslane,0,2
+Up,30.5,Purslane,0,2
+Up,33.5,Purslane,0,2
+Up,37.5,Purslane,0,2
+Up,45.5,Purslane,0,2
+Low,2.5,Purslane,0,3
+Low,6.5,Purslane,0,3
+Low,10.5,Purslane,0,3
+Low,14.5,Purslane,0,3
+Low,18.5,Purslane,0,3
+Low,22.5,Purslane,0,3
+Up,9.5,Purslane,0,3
+Up,25.5,Purslane,0,3
+Up,30.5,Purslane,0,3
+Up,33.5,Purslane,0,3
+Up,37.5,Purslane,0,3
+Up,25.5,Purslane,1,1
+Up,45.5,Purslane,1,1
+Up,45.5,Purslane,2,3
+Low,2.5,Quackgrass,0,1
+Low,6.5,Quackgrass,0,1
+Low,10.5,Quackgrass,0,1
+Low,14.5,Quackgrass,0,1
+Low,18.5,Quackgrass,0,1
+Low,22.5,Quackgrass,0,1
+Up,9.5,Quackgrass,0,1
+Up,25.5,Quackgrass,0,1
+Up,33.5,Quackgrass,0,1
+Up,37.5,Quackgrass,0,1
+Up,45.5,Quackgrass,0,1
+Low,2.5,Quackgrass,0,2
+Low,6.5,Quackgrass,0,2
+Low,10.5,Quackgrass,0,2
+Low,14.5,Quackgrass,0,2
+Low,18.5,Quackgrass,0,2
+Low,22.5,Quackgrass,0,2
+Up,9.5,Quackgrass,0,2
+Up,25.5,Quackgrass,0,2
+Up,30.5,Quackgrass,0,2
+Up,33.5,Quackgrass,0,2
+Up,37.5,Quackgrass,0,2
+Low,2.5,Quackgrass,0,3
+Low,6.5,Quackgrass,0,3
+Low,10.5,Quackgrass,0,3
+Low,14.5,Quackgrass,0,3
+Low,18.5,Quackgrass,0,3
+Low,22.5,Quackgrass,0,3
+Up,9.5,Quackgrass,0,3
+Up,25.5,Quackgrass,0,3
+Up,30.5,Quackgrass,0,3
+Up,37.5,Quackgrass,0,3
+Up,30.5,Quackgrass,5,1
+Up,45.5,Quackgrass,6,2
+Up,33.5,Quackgrass,12,3
+Up,45.5,Quackgrass,16,3
+Low,2.5,Salsifus,0,1
+Low,6.5,Salsifus,0,1
+Low,10.5,Salsifus,0,1
+Low,14.5,Salsifus,0,1
+Low,18.5,Salsifus,0,1
+Low,22.5,Salsifus,0,1
+Up,25.5,Salsifus,0,1
+Up,30.5,Salsifus,0,1
+Up,33.5,Salsifus,0,1
+Up,37.5,Salsifus,0,1
+Up,45.5,Salsifus,0,1
+Low,2.5,Salsifus,0,2
+Low,6.5,Salsifus,0,2
+Low,10.5,Salsifus,0,2
+Low,14.5,Salsifus,0,2
+Low,18.5,Salsifus,0,2
+Low,22.5,Salsifus,0,2
+Up,9.5,Salsifus,0,2
+Up,25.5,Salsifus,0,2
+Up,33.5,Salsifus,0,2
+Up,37.5,Salsifus,0,2
+Up,45.5,Salsifus,0,2
+Low,6.5,Salsifus,0,3
+Low,10.5,Salsifus,0,3
+Low,14.5,Salsifus,0,3
+Low,18.5,Salsifus,0,3
+Low,22.5,Salsifus,0,3
+Up,9.5,Salsifus,0,3
+Up,25.5,Salsifus,0,3
+Up,30.5,Salsifus,0,3
+Up,33.5,Salsifus,0,3
+Up,37.5,Salsifus,0,3
+Up,45.5,Salsifus,0,3
+Up,30.5,Salsifus,1,2
+Low,2.5,Salsifus,2,3
+Up,9.5,Salsifus,4,1
+Low,10.5,Sandwort,0,1
+Low,14.5,Sandwort,0,1
+Low,18.5,Sandwort,0,1
+Low,22.5,Sandwort,0,1
+Up,9.5,Sandwort,0,1
+Low,6.5,Sandwort,0,2
+Low,10.5,Sandwort,0,2
+Low,14.5,Sandwort,0,2
+Low,18.5,Sandwort,0,2
+Low,22.5,Sandwort,0,2
+Up,9.5,Sandwort,0,2
+Up,45.5,Sandwort,0,2
+Low,2.5,Sandwort,0,3
+Low,6.5,Sandwort,0,3
+Low,10.5,Sandwort,0,3
+Low,22.5,Sandwort,0,3
+Up,33.5,Sandwort,1,1
+Up,45.5,Sandwort,1,3
+Low,2.5,Sandwort,2,2
+Up,30.5,Sandwort,2,2
+Up,45.5,Sandwort,3,1
+Low,14.5,Sandwort,3,3
+Low,18.5,Sandwort,3,3
+Up,9.5,Sandwort,3,3
+Up,37.5,Sandwort,3,3
+Low,2.5,Sandwort,5,1
+Low,6.5,Sandwort,5,1
+Up,30.5,Sandwort,5,1
+Up,25.5,Sandwort,5,2
+Up,25.5,Sandwort,5,3
+Up,33.5,Sandwort,5,3
+Up,25.5,Sandwort,6,1
+Up,30.5,Sandwort,7,3
+Up,37.5,Sandwort,9,1
+Up,33.5,Sandwort,9,2
+Up,37.5,Sandwort,9,2
+Low,2.5,Shepherd's Purse ,0,1
+Low,6.5,Shepherd's Purse ,0,1
+Low,10.5,Shepherd's Purse ,0,1
+Low,14.5,Shepherd's Purse ,0,1
+Low,18.5,Shepherd's Purse ,0,1
+Low,22.5,Shepherd's Purse ,0,1
+Up,9.5,Shepherd's Purse ,0,1
+Up,30.5,Shepherd's Purse ,0,1
+Up,33.5,Shepherd's Purse ,0,1
+Up,37.5,Shepherd's Purse ,0,1
+Up,45.5,Shepherd's Purse ,0,1
+Low,2.5,Shepherd's Purse ,0,2
+Low,6.5,Shepherd's Purse ,0,2
+Low,10.5,Shepherd's Purse ,0,2
+Low,14.5,Shepherd's Purse ,0,2
+Low,18.5,Shepherd's Purse ,0,2
+Low,22.5,Shepherd's Purse ,0,2
+Up,25.5,Shepherd's Purse ,0,2
+Up,30.5,Shepherd's Purse ,0,2
+Up,33.5,Shepherd's Purse ,0,2
+Up,37.5,Shepherd's Purse ,0,2
+Low,2.5,Shepherd's Purse ,0,3
+Low,6.5,Shepherd's Purse ,0,3
+Low,10.5,Shepherd's Purse ,0,3
+Low,14.5,Shepherd's Purse ,0,3
+Low,18.5,Shepherd's Purse ,0,3
+Up,9.5,Shepherd's Purse ,0,3
+Up,25.5,Shepherd's Purse ,0,3
+Up,37.5,Shepherd's Purse ,0,3
+Low,22.5,Shepherd's Purse ,1,3
+Up,45.5,Shepherd's Purse ,1,3
+Up,9.5,Shepherd's Purse ,2,2
+Up,33.5,Shepherd's Purse ,2,3
+Up,25.5,Shepherd's Purse ,3,1
+Up,45.5,Shepherd's Purse ,3,2
+Up,30.5,Shepherd's Purse ,5,3
+Low,2.5,Small Geranium,0,1
+Low,6.5,Small Geranium,0,1
+Low,10.5,Small Geranium,0,1
+Low,14.5,Small Geranium,0,1
+Low,18.5,Small Geranium,0,1
+Low,22.5,Small Geranium,0,1
+Up,9.5,Small Geranium,0,1
+Up,30.5,Small Geranium,0,1
+Up,33.5,Small Geranium,0,1
+Up,37.5,Small Geranium,0,1
+Up,45.5,Small Geranium,0,1
+Low,2.5,Small Geranium,0,2
+Low,6.5,Small Geranium,0,2
+Low,10.5,Small Geranium,0,2
+Low,14.5,Small Geranium,0,2
+Low,18.5,Small Geranium,0,2
+Low,22.5,Small Geranium,0,2
+Up,9.5,Small Geranium,0,2
+Up,25.5,Small Geranium,0,2
+Up,30.5,Small Geranium,0,2
+Up,33.5,Small Geranium,0,2
+Up,37.5,Small Geranium,0,2
+Up,45.5,Small Geranium,0,2
+Low,2.5,Small Geranium,0,3
+Low,6.5,Small Geranium,0,3
+Low,10.5,Small Geranium,0,3
+Low,14.5,Small Geranium,0,3
+Low,18.5,Small Geranium,0,3
+Low,22.5,Small Geranium,0,3
+Up,9.5,Small Geranium,0,3
+Up,25.5,Small Geranium,0,3
+Up,30.5,Small Geranium,0,3
+Up,33.5,Small Geranium,0,3
+Up,37.5,Small Geranium,0,3
+Up,45.5,Small Geranium,0,3
+Up,25.5,Small Geranium,1,1
